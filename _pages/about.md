@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Test modification:
 
-Hi! I'am Juan Pablo, actually I realize a MSc. in Physics at the Physics Department of the Faculty of Physical and Mathematical Science in the University of Chile. I work in the Microfluidics and Active Matter laboratory in this place, making experiments with soil bacteria in synthetic porous media microfabricated with optical and soft litography.
+Hi! I'm Juan Pablo, actually I realize a MSc. in Physics at the Physics Department of the Faculty of Physical and Mathematical Science in the University of Chile. I work in the Microfluidics and Active Matter laboratory in this place, making experiments with soil bacteria in synthetic porous media microfabricated with optical and soft litography.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
