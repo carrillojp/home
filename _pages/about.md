@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSc. in Physics candidate at the <a href='http://dfi.uchile.cl/'>Physics Department, Faculty of Physical and Mathematical Sciences, University of Chile</a> and <a href='https://activematter.dfi.uchile.cl/'>Millennium Nucleus Physics of Active Matter</a>.
+subtitle: 
 
 profile:
   align: right
@@ -15,4 +15,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Juan Pablo, I'm currently doing a MSc. in Physics at the Physics Department of the Faculty of Physical and Mathematical Sciences in the University of Chile. I work in the Microfluidics and Active Matter Laboratory in this place, making experiments with soil bacteria in synthetic porous media microfabricated with optical and soft litography.
+Hi! I'm Juan Pablo, I'm currently doing a MSc. in Physics at the [Physics Department of the Faculty of Physical and Mathematical Sciences in the University of Chile](http://dfi.uchile.cl/) and the [Millennium Nucleus Physics of Active Matter](https://activematter.dfi.uchile.cl/). I work in the area of Microfluidics and Active Matter in the Out-of-Equilibrium Matter Laboratory in this place, making experiments with soil bacteria in synthetic porous media microfabricated with optical and soft litography.
+
+My academics interest are focused in the Biophysics, Active Matter and Microfluidics.
+
