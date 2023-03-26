@@ -9,13 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <style>
-    .container {
-      height: 200px;
-      position: relative;
-      border: 3px solid green;
-    }
-
     .vertical-center {
       margin: 0;
       position: absolute;
@@ -25,7 +18,6 @@ profile:
     }
     </style>
 
-    <div class="container">
       <div class="vertical-center">
         <p> 
           <body>
@@ -35,7 +27,6 @@ profile:
           </body> 
         </p>
       </div>
-    </div>
     
 
 news: false  # includes a list of news items
