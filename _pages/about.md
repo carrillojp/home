@@ -9,14 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='http://fortawesome.github.io/Font-Awesome/'>CV</a></p>
     <p> 
       <body>
-        <div class="container">
           <a href="https://www.google.com/">
             <button class="btn btn-primary btn-lg">CV</button>
           </a>
-        </div>
       </body> 
     </p>
 
