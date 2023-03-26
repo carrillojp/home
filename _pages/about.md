@@ -1,6 +1,6 @@
 ---
-layout: About
-title: about
+layout: about
+title: About
 permalink: /
 subtitle: MSc. in Physics at the <a href='http://dfi.uchile.cl/'>Physics Department, Faculty of Physical and Mathematical Sciences, University of Chile</a> and <a href='https://activematter.dfi.uchile.cl/'>Millenium Nucleus Physics of Active Matter</a>.
 
