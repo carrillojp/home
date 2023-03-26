@@ -2,25 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSc. in Physics candidate at the <a href='http://dfi.uchile.cl/'>Physics Department, Faculty of Physical and Mathematical Sciences, University of Chile</a> and <a href='https://activematter.dfi.uchile.cl/'>Millenium Nucleus Physics of Active Matter</a>.
+subtitle: MSc. in Physics candidate at the <a href='http://dfi.uchile.cl/'>Physics Department, Faculty of Physical and Mathematical Sciences, University of Chile</a> and <a href='https://activematter.dfi.uchile.cl/'>Millennium Nucleus Physics of Active Matter</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>[CV](http://fortawesome.github.io/Font-Awesome/)</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Hi! I'm Juan Pablo, I'm currently doing a MSc. in Physics at the Physics Department of the Faculty of Physical and Mathematical Sciences in the University of Chile. I work in the Microfluidics and Active Matter Laboratory in this place, making experiments with soil bacteria in synthetic porous media microfabricated with optical and soft litography.
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
