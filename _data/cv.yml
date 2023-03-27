@@ -2,11 +2,109 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Juan Pablo Carrillo Mora
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: February 26, 1999
+    - name: Personal Email
+      value: carrillojpcm@gmail.com
+    - name: Institutional Email
+      value: juancarrillo@ug.uchile.cl
+    - name: Webpage
+      value: carrillojp.github.io
+
+- title: Education
+  type: time_table
+  contents:
+    - title: MSc. in Physics
+      institution: Universidad de Chile, Santiago, Chile
+      year: 2021 - Current
+      description:
+        - (91.4% GPA)
+    - title: BSc. in Physics
+      institution: Universidad Católica del Maule, Talca, Chile
+      year: 2017 - 2021
+      description:
+        - (91.4% GPA)
+
+
+- title: Fellowships and Awards
+  type: time_table
+  contents:
+    - title: National Master Fellowship
+      institution: Agencia Nacional de Investigación y Desarrollo (ANID)
+      year: 2022 - 2023
+      description:
+        - Full tuition funding and salary for master degree
+    - title: DFI Schollarship
+      institution: Departamento de Física, FCFM, Universidad de Chile
+      year: 2021
+      description:
+        - Tuition funding for master degree
+    - title: Outstanding Student
+      institution: Universidad Católica del Maule
+      year: 2021
+      description:
+        - Award for outstanding academic performance in undergraduate degree
+    - title: Honors Scholarship
+      institution: Universidad Católica del Maule
+      year: 2018 - 2020
+      description:
+        - Full funding of undergraduate tuition for outstanding academic performance
+
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Other Projects | Out of Equilibrium Matter Laboratory, Universidad de Chile
+      institution: Research funded by Millennium Nucleus Physics of Active Matter
+      year: 2023 - Current
+      description:
+        - Experimental study about the interaction between chiral and inertial dry active matter (Hexbugs) with different geometries
+    - title: MSc. Thesis Project | Universidad de Chile
+      institution: Research funded by Millennium Nucleus Physics of Active Matter and Agencia Nacional de Investigación y Desarrollo (ANID)
+      year: 2021 - Current
+      description:
+        - Experimental study about the effects of confinement on the motility of soil bacteria in synthetic porous media (microfluidics devices that simulate soil porosity)
+        - Experimental study about the effects of shear stresses on the motility and self-aglutination of soil bacteria
+        - Experimental and numerical study (simulations) about the effective diffusion of soil bacteria in disordered porous media
+    - title: Undergraduate Project | Universidad Católica del Maule
+      institution: Research funded by Vicerrectoría de Investigación y Postgrado (VRIP)
+      year: 2020 - 2021
+      description:
+        - Numerical study (simulations) about the entropy production by transmembrane ionic flows in electrically excitable cells
+
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teacher Assistant
+      institution: Universidad de Chile
+      year: 2021 - 2022
+      description:
+        - title: Courses
+          contents:
+            - FI2003 Experimental Methods
+    - title: Teacher
+      institution: Universidad Católica del Maule
+      year: 2021
+      description:
+        - title: Courses
+          contents:
+            - PBM-423 Physics and Chemistry II
+    - title: Teacher Assistant
+      institution: Universidad Católica del Maule
+      year: 2018 - 2020
+      description:
+        - title: Courses
+          contents:
+            - PCI-111 Natural Sciences (physics module)
+            - CCI-123 Physics I
+            - IND-212 Physics I
+            - PCI-123 General Physics I
+            - PCM-321 Physics
+            - TME-124 Physics in Medical Technology (laboratory)
+            - QYF-125 Physics Applied to the Pharmaceutical Sciences
+            - PCM-311 Electromagnetism
 
 - title: Education
   type: time_table
