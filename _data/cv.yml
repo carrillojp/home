@@ -1,16 +1,17 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: <u>Full Name:</u>
       value: Juan Pablo Carrillo Mora
-    - name: Date of Birth
+    - name: <u>Date of Birth:</u>
       value: February 26, 1999
-    - name: Personal Email
+    - name: <u>Personal Email:</u>
       value: carrillojpcm@gmail.com
-    - name: Institutional Email
+    - name: <u>Institutional Email:</u>
       value: juancarrillo@ug.uchile.cl
-    - name: Webpage
+    - name: <u>Webpage:</u>
       value: carrillojp.github.io
+
 
 - title: Education
   type: time_table
@@ -81,21 +82,21 @@
       institution: Universidad de Chile
       year: 2021 - 2022
       description:
-        - title: Courses
+        - title: <u>Courses:</u>
           contents:
             - FI2003 Experimental Methods
     - title: Teacher
       institution: Universidad Católica del Maule
       year: 2021
       description:
-        - title: Courses
+        - title: <u>Courses:</u>
           contents:
             - PBM-423 Physics and Chemistry II
     - title: Teacher Assistant
       institution: Universidad Católica del Maule
       year: 2018 - 2020
       description:
-        - title: Courses
+        - title: <u>Courses:</u>
           contents:
             - PCI-111 Natural Sciences (physics module)
             - CCI-123 Physics I
@@ -106,90 +107,74 @@
             - QYF-125 Physics Applied to the Pharmaceutical Sciences
             - PCM-311 Electromagnetism
 
-- title: Education
+
+- title: Schools and Workshops
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: XXIII Simposio Chileno de Física
+      institution: Organized by Sociedad Chilena de Física
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Presented a poster titled "Effects of shear on the motility of soil bacteria Bradyrhizobium Diazoefficiens"
+    - title: XXIII Simposio Chileno de Física
+      institution: Organized by Sociedad Chilena de Física
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        - Poster titled "Measuring motility of soil bacteria in microfluidic porous media model"
+    - title: School and Conference Physics of Active Matter
+      institution: Organized by Millennium Nucleus Physics of Active Matter
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Presented a poster titled "Effects of shear on the motility of soil bacteria Bradyrhizobium Diazoefficiens"
+    - title: WE-Heraeus Summer School 2022 Active Matter and Complex Media
+      institution: Organized by Université Grenoble Alpes, Universität Bayreuth, Institut d'Etudes Scientifiques de Cargèse
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Talk titled "Measuring motility of soil bacteria in a microfluidic porous media model"
+    - title: XXI Meeting of surface and Nanostructured Materials (NANO2022)
+      institution: Organized by Universidad Nacional de Río
+      year: 2022
       description:
+        - Poster titled "Soils on a chip - new tools for sustainable agronomy"
+    - title: 107a Reunión de la Asociación Física Argentina
+      institution: Organized by Asociación Física Argentina
+      year: 2022
+      description:
+        - Poster titled "Analysis of the motility parameters of soil bacteria in artificial microdevices"
+    - title: The Physics of Life Online Summer School
+      institution: Organized by Princeton University
+      year: 2020
+      description:
+        - Introduction frontier topics in biological physics and active matter
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Lenguages:</u> Spanish, English.
+    - <u>Coding:</u> Python, MATLAB, C, LaTeX.
+    - <u>Software:</u> FIJI (ImageJ), BioTracker, AutoCAD, Fusion360, Adobe Illustrator, Adobe Photoshop.
+    - <u>Experimental:</u> Optical maskless lithography, Soft lithography, Bright-field and fluorescence optical microscopy, Bacterial culture, Particle tracking.
+
+
+- title: Interests
+  type: list
+  contents:
+    - <u>Academic Interests:</u> Biophysics, Active Matter, Microfluidics.
+
+
+- title: References
+  type: nested_list
+  contents:
+    - title: María Luisa Cordero
+      items: 
+        - Assistant Professor, Universidad de Chile
+        - <u>Email:</u> mcordero@ing.uchile.cl
+    - title: Veronica Marconi
+      items:
+        - Associate Professor, Universidad Nacional de Córdoba
+        - <u>Email:</u> vmarconi@famaf.unc.edu.ar
+    - title: Carlos Paiva
+      items:
+        - Associate Professor, Universidad Católica del Maule
+        - <u>Email:</u> cpaiva@ucm.cl
