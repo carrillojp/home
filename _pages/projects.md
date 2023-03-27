@@ -3,9 +3,9 @@ layout: page
 title: Research
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, fun, Entropy Production by tra]
 horizontal: false
 ---
 
