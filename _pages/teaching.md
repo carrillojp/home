@@ -14,8 +14,7 @@ Talk about the experiments and simulations with Bradys
 
 {% include youtube.html id="RlsCiXdmmok" %}
 
-![Bradys](./assets/img/Bradys.gif)
-<img src="https://carrillojp.github.io/assets/img/Bradys.gif" alt="zigzag" />
+<img src="https://carrillojp.github.io/assets/img/Bradys.gif" alt="zigzag" width="400" height="400"/>
 
 \___
 
