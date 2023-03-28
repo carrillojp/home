@@ -13,11 +13,16 @@ nav_order: 3
 Talk about the experiments and simulations with Bradys
 
 {% include youtube.html id="RlsCiXdmmok" %}
-\\
+
+![Bradys](./assets/img/Bradys.gif)
+<img src="https://carrillojp.github.io/assets/img/Bradys.gif" alt="zigzag" />
+
+\___
+
 {% include youtube.html id="kiXXfyGS6-c" %}
 
-\\
-\\
+
+\___
 
 ### **Chiral and Inertial Dry Active Matter**
 ###### <span style="color:orange"> **Keywords:** Hexbugs, chiral active matter, inertial active matter, dry active matter </span>
@@ -26,8 +31,8 @@ Talk about the experiments with Hexbugs
 
 {% include youtube.html id="JPWy5WwXZD8" %}
 
-\\
-\\
+
+\___
 
 ### Entropy Production by transmembrane ionic flows
 ###### <span style="color:orange"> **Keywords:** excitable cells, out of equilibrium systems, disipative structure </span>
