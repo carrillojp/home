@@ -38,4 +38,4 @@ Talk about the experiments with Hexbugs
 
 Talk about the simulations and modeling of electrically excitable cells and his entropy production
 
-<center><img src="https://carrillojp.github.io/assets/img/entropyHH.png" alt="zigzag" /></center>
+<img src="https://carrillojp.github.io/assets/img/entropyHH.png" alt="zigzag" width="88%" height="88%"/>
