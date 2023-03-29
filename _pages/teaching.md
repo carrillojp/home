@@ -37,3 +37,5 @@ Talk about the experiments with Hexbugs
 ###### <span style="color:orange"> **Keywords:** excitable cells, out of equilibrium systems, disipative structure </span>
 
 Talk about the simulations and modeling of electrically excitable cells and his entropy production
+
+<center><img src="https://carrillojp.github.io/assets/img/entropyHH.png" alt="zigzag" width="400" height="400"/></center>
