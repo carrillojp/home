@@ -15,7 +15,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Juan Pablo. I'm currently doing a MSc. in Physics at the [Physics Department of the Faculty of Physical and Mathematical Sciences in the University of Chile](http://dfi.uchile.cl/) and the [Millennium Nucleus Physics of Active Matter](https://activematter.dfi.uchile.cl/). I work in the area of Microfluidics and Active Matter of the Out-of-Equilibrium Matter Laboratory in this place.
 
-My academics interest are focused in the Biophysics, Active Matter and Microfluidics. For my master thesis I realize experiments with soil bacteria in synthetic porous media microfabricated with optical and soft litography, to understand the transport processes of this biological microswimmers in a artificial enviroment that simulates his natural enviroment.
+Hi! I am Juan Pablo. I am currently doing a Master's in Physics at the [University of Chile](http://dfi.uchile.cl/) and the [Millennium Nucleus Physics of Active Matter](https://activematter.dfi.uchile.cl/). I work in the Microfluidics and Active Matter area of the Out of Equilibrium Matter Laboratory housed at this university.
 
+My academic interests are focused on Biophysics, Active Matter and Microfluidics. For my master's thesis I carry out experiments with soil bacteria in microfabricated synthetic porous media with optical and soft lithography. With them I study the transport processes of these biological microswimmers in an artificial environment that simulates their natural environment.
