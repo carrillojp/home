@@ -41,7 +41,7 @@ We studied the effective diffusion of these bacteria through these porous media 
 In presence of an external magnetic field, the motion of magnetotactic bacteria can be directed along the magnetic field lines. When a dense suspension of magnetotactic bacteria is confined between two parallel walls and subject the suspension to a homogeneous magnetic field perpendicular to the confinement planes, some bacteria accumulate in the walls and produce a recirculating flow that produce bio-convection. In collaboration with Guillermo Fadic, these patterns are studied experimentally and then contrasted with results of numerical simulations (in which we are currently working) of a physical model in which the hydrodynamic interactions between microswimmers play a very significant role for the replication of the bio-convection.
 
 <center>
-<div class="pull-left"><img src="https://carrillojp.github.io/assets/img/HB_ring.gif" alt="zigzag" width="60%" height="60%"/></div>
+<div class="pull-left"><img src="https://carrillojp.github.io/assets/img/bio_convection.gif" alt="zigzag" width="60%" height="60%"/></div>
 </center> 
 <br/>
 <br/>
@@ -56,7 +56,7 @@ HexBugs are small robots that move like chiral active Brownian particles with in
 
 In another experiment we studied how the group of active agents confined in a ring lead to it following a random movement with persistence. Currently, we are studying how to break the spatial symmetry of the system in order to rectify the movement of the ring.
 <center>
-<div class="pull-left"><img src="https://carrillojp.github.io/assets/img/bio_convection.gif" alt="zigzag" width="60%" height="60%"/></div>
+<div class="pull-left"><img src="https://carrillojp.github.io/assets/img/HB_ring.gif" alt="zigzag" width="60%" height="60%"/></div>
 </center> 
 <br/>
 <br/>
