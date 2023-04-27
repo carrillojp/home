@@ -41,6 +41,12 @@ HexBugs are small robots that move like chiral active Brownian particles with in
 
 {% include youtube.html id="JPWy5WwXZD8" %}
 
+<br/>
+<center>
+<div class="pull-left"><img src="https://carrillojp.github.io/assets/img/HB_ring.gif" alt="zigzag" width="80%" height="80%"/></div>
+</center> 
+<br/>
+
 
 <br/>
 
@@ -50,3 +56,4 @@ HexBugs are small robots that move like chiral active Brownian particles with in
 In this work we study the entropy production by transmembrane ionic flows using non-equilibrium thermodynamics for dissipative structures. We derive an equation for the production of entropy that joins the system of equations of the generalized Hodgkin-Huxley model that describes the dynamics of the membrane potential in electrically excitable cells. And from numerical simulations we characterize the production of entropy in a neuronal cell that is in different states of activity.
 
 <img src="https://carrillojp.github.io/assets/img/entropyHH.png" alt="zigzag" width="88%" height="88%"/>
+
