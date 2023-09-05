@@ -81,6 +81,13 @@
   contents:
     - title: Teacher Assistant
       institution: Universidad de Chile
+      year: 2023
+      description:
+        - title: <u>Courses:</u>
+          contents:
+            - FI6030 Introduction to Microfabrication Techniques
+    - title: Teacher Assistant
+      institution: Universidad de Chile
       year: 2021 - 2022
       description:
         - title: <u>Courses:</u>
@@ -112,6 +119,11 @@
 - title: Schools and Workshops
   type: time_table
   contents:
+    - title: XI GEFENOL Summer School on Statistical Physics of Complex Systems
+      institution: Organized by GEFENOL & UBICS, Universitat de Barcelona
+      year: 2023
+      description:
+        - Talk titled "Measuring motility of soil bacteria in a microfluidic porous media model: experiments and simulations"
     - title: XXIII Simposio Chileno de Física
       institution: Organized by Sociedad Chilena de Física
       year: 2022
