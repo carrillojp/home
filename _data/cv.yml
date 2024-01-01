@@ -60,6 +60,7 @@
       description:
         - Numerical and experimental study about the bio-convection patterns formed by magnetotactic bacteria
         - Experimental study about the interaction between chiral and inertial dry active matter (Hexbugs) with different geometries
+        - Numerical study about the motility induced phase separation in an inflationary space
     - title: MSc. Thesis Project | Universidad de Chile
       institution: Research funded by Millennium Nucleus Physics of Active Matter and Agencia Nacional de Investigación y Desarrollo (ANID)
       year: 2021 - Current
@@ -72,6 +73,16 @@
       year: 2020 - 2021
       description:
         - Numerical study (simulations) about the entropy production by transmembrane ionic flows in electrically excitable cells
+
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Soils-on-a-chip reveal unforeseen motility parameters of confined \\textit{Bradyrhizobium diazoefficiens}
+      institution: M. Pires-Monteiro, \\underline{J.P. Carrillo-Mora}, N. Gutiérrez, S. Montagna, A. Lodeiro, M.L. Cordero and V. Marconi
+      year: 2023
+      description:
+        - Manuscript submitted for publication (Pre-print bioRxiv [2023.12.29.573673](https://www.biorxiv.org/content/10.1101/2023.12.29.573673v1))
 
 
 - title: Teaching Experience
