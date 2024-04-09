@@ -16,9 +16,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD. in Physics
+      institution: Universitat de Barcelona, Barcelona, España
+      year: 2024 - Current
     - title: MSc. in Physics
       institution: Universidad de Chile, Santiago, Chile
-      year: 2021 - Current
+      year: 2021 - 2023
     - title: BSc. in Physics
       institution: Universidad Católica del Maule, Talca, Chile
       year: 2017 - 2021
@@ -29,6 +32,16 @@
 - title: Fellowships and Awards
   type: time_table
   contents:
+    - title: FPI predoctoral contract
+      institution: Agencia Estatal de Investigación and European Social Fund Plus (ESF+)
+      year: 2024 - Current
+      description:
+        - Salary for master degree
+    - title: Doctoral Scholarship
+      institution: Agencia Nacional de Investigación y Desarrollo (ANID)
+      year: 2024 - Current
+      description:
+        - Full tuition funding and salary for master degree
     - title: National Master Fellowship
       institution: Agencia Nacional de Investigación y Desarrollo (ANID)
       year: 2022 - 2023
@@ -54,6 +67,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: PhD. Thesis Project | SGR Statistical Physics, Universitat de Barcelona
+      institution: Research funded by Agencia Estatal de Investigación (AEI España) and European Social Fund Plus (ESF+)
+      year: 2024 - Current
+      description:
+        - Non-equilibrium statistical physics of dense systems of active and chiral particles
     - title: Other Projects | Laboratory of Matter Out-of-Equilibrium, Universidad de Chile
       institution: Research funded by Millennium Nucleus Physics of Active Matter
       year: 2023 - Current
@@ -78,7 +96,7 @@
 - title: Publications
   type: time_table
   contents:
-    - title: Soils-on-a-chip reveal unforeseen motility parameters of confined Bradyrhizobium diazoefficiens
+    - title: Soils-on-a-chip reveal unforeseen motility parameters of microconfined Bradyrhizobium diazoefficiens
       institution: M. Pires-Monteiro, J.P. Carrillo-Mora, N. Gutiérrez, S. Montagna, A. Lodeiro, M.L. Cordero and V. Marconi
       year: 2023
       description:
@@ -90,18 +108,12 @@
   contents:
     - title: Teacher Assistant
       institution: Universidad de Chile
-      year: 2023
-      description:
-        - title: <u>Courses:</u>
-          contents:
-            - FI6030 Introduction to Microfabrication Techniques
-    - title: Teacher Assistant
-      institution: Universidad de Chile
-      year: 2021 - 2022
+      year: 2021 - 2023
       description:
         - title: <u>Courses:</u>
           contents:
             - FI2003 Experimental Methods
+            - FI6030 Introduction to Microfabrication Techniques
     - title: Teacher
       institution: Universidad Católica del Maule
       year: 2021
@@ -187,7 +199,7 @@
 - title: Interests
   type: list
   contents:
-    - <u>Academic Interests:</u> Biophysics, Active Matter, Microfluidics.
+    - <u>Academic Interests:</u> Biophysics, Active Matter, Microfluidics, Non-equilibrium Statistical Physics.
 
 
 - title: References
