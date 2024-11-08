@@ -15,7 +15,10 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+PhD student in the [Statistical Physics UB Group](https://www.ub.edu/fisestub/) of the [Condensed Matter Physics Department](https://www.ub.edu/portal/web/dp-materia-condensada), [University of Barcelona](https://web.ub.edu/en/web/ub/?) and the [UBICS - University of Barcelona Institute of Complex Systems](https://www.ubics.net/).
 
-Hi! I am Juan Pablo. I am currently doing a MSc. in Physics at the [University of Chile](http://dfi.uchile.cl/) and the [Millennium Nucleus Physics of Active Matter](https://activematter.dfi.uchile.cl/). I work in the Microfluidics and Active Matter area of the Laboratory of Matter Out-of-Equilibrium housed at the [Faculty of Physical and Mathematical Sciences, University of Chile](http://dfi.uchile.cl/investigacion/laboratorios-de-investigacion/laboratorio-de-materia-fuera-del-equilibrio.html).
+MSc. in Physics graduate from the [Physics Department of the Faculty of Physical and Mathematical Sciences, University of Chile](http://dfi.uchile.cl/) and the [Millennium Nucleus Physics of Active Matter](https://activematter.dfi.uchile.cl/). 
 
-My academic interests are focused on Biophysics, Active Matter and Microfluidics. For my master's thesis I carry out experiments with soil bacteria in microfabricated synthetic porous media with optical and soft lithography. With them I study the transport processes of these biological microswimmers in an artificial environment that simulates their natural environment.
+My academic interests are focused on Active Matter, Biophysics, Microfluidics and Non-equilibrium Statistical Physics. 
+
+You can find a complete CV [here](carrillojp.github.io/assets/pdf/cv.pdf).
