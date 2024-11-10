@@ -21,4 +21,4 @@ MSc. in Physics graduate from the [Physics Department of the Faculty of Physical
 
 My academic interests are focused on Active Matter, Biophysics, Microfluidics and Non-equilibrium Statistical Physics. 
 
-You can find a complete CV [here](carrillojp.github.io/assets/pdf/cv.pdf).
+You can find a complete CV [here](https://carrillojp.github.io/assets/pdf/cv.pdf).
